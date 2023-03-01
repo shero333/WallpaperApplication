@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Wallpapers HD</string>
+
+    <string name="app_tagLine">You\'ll dive into splendid of great Wallpapers HD</string>
+    <string name="we_make_cool_wallpaper_for_you_which_you_can_enjoy_and_use_for_free_let_s_go_to_explore">We make cool wallpaper for you, which you can enjoy and use for free. Let\'s go to explore</string>
+    <string name="welcome">Welcome!</string>
+    <string name="abstract_backgrounds_are_universal_design_elements_because_they_re_free_of_implied_meaning_we_can_enjoy_them_simply_as_compositions_of_light">backgrounds are universal design elements. Because they\'re free of implied meaning. We can enjoy them simply as compositions of light.</string>
+
+    <string-array name="interestNames">
+        <item>Nature</item>
+        <item>Animations</item>
+        <item>Amoled</item>
+        <item>Illustrations</item>
+        <item>Minimalist</item>
+        <item>Vintage</item>
+        <item>Art</item>
+        <item>Abstract</item>
+    </string-array>
+
+    <string name="ad_attribution">AD</string>
+    <string name="privacy_policy">Privacy policy</string>
+
+
+</resources>
